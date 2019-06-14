@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Sep 27 18:36:50 2018
-这个是SSRN_IN的改变-----reshape实现,+外res
 @author: Administrator
 """
 
